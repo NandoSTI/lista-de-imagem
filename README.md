@@ -28,7 +28,7 @@
 
 ### Links
 
-- Site URL: https://nandosti.github.io/menu-flexbox/
+- Site URL: https://nandosti.github.io/lista-de-imagem/
 
 ### Construído com
 
